@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 My name is Thao, a graduating Business Administration senior at VinUniversity, minoring in Data Science
-- 🌱 I’m interested in Machine Learning / AI, especially their applications in life
-- 🔭 I’m currently learning NLP
-- 👯 I’m looking to collaborate on any Data Science Projects / Intern positions! Feel feel to reach me at hpthao.work@gmail.com
+- 🌱 I’m interested in Machine Learning/AI, especially their applications in life
+- 🔭 I’m currently learning how to solve problems, by different approaches with data
+- 👯 Feel feel to reach me at hpthao.work@gmail.com
 
 ### ⚡Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
