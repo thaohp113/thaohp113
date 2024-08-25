@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Thao, a graduating Business Administration senior at VinUniversity, minoring in Data Science
-- 🌱 I’m interested in Machine Learning/AI, especially their applications in life
+- 🌱 I’m interested in LLM, especially their applications in life
 - 🔭 I’m currently learning how to solve problems, by different approaches with data
 - 👯 Feel feel to reach me at hpthao.work@gmail.com
 
